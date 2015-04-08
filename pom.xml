@@ -56,18 +56,4 @@
     </plugins>
   </build>
 
-  <repositories>
-    <repository> 
-      <id>morphia.googlecode.com</id> 
-      <name>Morphia Repo at Google Code</name> 
-      <url>http://morphia.googlecode.com/svn/mavenrepo</url> 
-    </repository> 
-    
-    <repository>
-      <id>maven</id>
-      <name>maven.org Repository</name>
-      <url>http://repo1.maven.org/maven2/</url>
-    </repository>
-  </repositories>
-
 </project>
